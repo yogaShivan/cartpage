@@ -4,6 +4,9 @@ const Cart = () => {
   return (
 
         <>
+        <div className='header'>
+
+        </div>
                 <div className="cartItemsDown">
             <div className="cartItemsTotal">
                 <h1>CARD TOTALS</h1>
@@ -32,6 +35,7 @@ const Cart = () => {
                 </div>
                 </div>
                 <div className="PromoCode">
+                <p>If you have promo code, Enter it here</p>
                     <div className="promoBox">
                         <input type="text" placeholder='Enter your promoCode' />
                         <button>Submit</button>

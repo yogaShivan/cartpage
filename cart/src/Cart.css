@@ -27,7 +27,7 @@
     height: 58px;
     outline: none;
     border: none;
-    background: #e67e22;
+    background: #ffa801;
     color: #fff;
     font-size: 16px;
     font-weight: 600;
@@ -64,4 +64,9 @@
     background: black;
     color: white;
     cursor: pointer;
+}
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: #ffa801;
 }
